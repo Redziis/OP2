@@ -18,6 +18,9 @@ Vartotojas prašomas įvesti studentų vardą ir pavardę, pažymius, bei turi g
 > 
 > ./array
 
+## Programos pavyzdys
+
+
 
 ## Versijos
 
