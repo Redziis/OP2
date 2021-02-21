@@ -3,7 +3,9 @@
 ## Funkcijos
 
 Programa geba apskaičiuoti studentų pažymių vidurkį arba medianą, suteikiant vartotojui galimybę pasirinkti.
+
 Duomenys įvedami ranka.
+
 Vartotojas prašomas įvesti studentų vardą ir pavardę, pažymius, bei turi galimybę pasirinkti, kad pažymiai būtu sugeneruojami atsitiktiniu būdu.
 
 ## Programos paleidimas
@@ -13,7 +15,8 @@ Vartotojas prašomas įvesti studentų vardą ir pavardę, pažymius, bei turi g
 - Gautą vykdomąjį failą paleiskite ir vykdykite nurodytas instrukcijas
 
 > g++ 'array' -o 'array'
-./array
+> ./array
+
 
 ## Versijos
 
