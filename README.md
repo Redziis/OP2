@@ -20,6 +20,7 @@ Vartotojas prašomas įvesti studentų vardą ir pavardę, pažymius, bei turi g
 
 ## Programos pavyzdys
 
+![SC](https://user-images.githubusercontent.com/73912517/108632874-c7fc5600-7479-11eb-9da1-7adbdbd22efd.png)
 
 
 ## Versijos
