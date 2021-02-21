@@ -6,7 +6,7 @@ Programa geba apskaičiuoti studentų pažymių vidurkį arba medianą, suteikia
 
 Duomenys įvedami ranka.
 
-Vartotojas prašomas įvesti studentų vardą ir pavardę, pažymius, bei turi galimybę pasirinkti, kad pažymiai būtu sugeneruojami atsitiktiniu būdu.
+Vartotojas prašomas įvesti studentų vardą ir pavardę, pažymius, bei turi galimybę pasirinkti, kad pažymiai būtų sugeneruojami atsitiktiniu būdu.
 
 ## Programos paleidimas
 
