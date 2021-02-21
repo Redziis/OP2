@@ -266,7 +266,7 @@ int main(){
             if (ansRandom == "t" || ansRandom == "T")
             {
                 cout << endl;
-                randompazymyss(PazymiuSkaicius, group[i]);
+                randomgrades(PazymiuSkaicius, group[i]);
                 run = false;
             }
             else if (ansRandom == "n" || ansRandom == "N")
