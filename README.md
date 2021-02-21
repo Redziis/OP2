@@ -15,6 +15,7 @@ Vartotojas prašomas įvesti studentų vardą ir pavardę, pažymius, bei turi g
 - Gautą vykdomąjį failą paleiskite ir vykdykite nurodytas instrukcijas
 
 > g++ 'array' -o 'array'
+> 
 > ./array
 
 
