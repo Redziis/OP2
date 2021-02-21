@@ -14,7 +14,7 @@ Vartotojas prašomas įvesti studentų vardą ir pavardę, pažymius, bei turi g
 - Programos kodą sukompiliuokite per komandinę eilute ar jums prieinamą IDE
 - Gautą vykdomąjį failą paleiskite ir vykdykite nurodytas instrukcijas
 
-> g++ 'array' -o 'array'
+> g++ array.cpp -o array
 > 
 > ./array
 
