@@ -25,4 +25,9 @@ Vartotojas prašomas įvesti studentų vardą ir pavardę, pažymius, bei turi g
 
 ## Versijos
 
-[v0.1](https://github.com/Redziis/OP/releases).
+[v0.1](https://github.com/Redziis/OP/tree/v0.1).
+[v0.2](https://github.com/Redziis/OP/tree/v0.2).
+[v0.3](https://github.com/Redziis/OP/tree/v0.3).
+[v0.4](https://github.com/Redziis/OP/tree/v0.4).
+[v0.5](https://github.com/Redziis/OP/tree/v0.5).
+[v1.0](https://github.com/Redziis/OP/tree/v1.0).
