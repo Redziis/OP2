@@ -32,9 +32,9 @@ Paleidus testavimo režimą programoje bus sugeneruoti 1000, 10000, 1000000, 100
 
 #Sistemos parametrai
 
-CPU - i5-9300H 4 cores 8 threads 2.4 ghz/
-RAM - Kingston HyperX Impact 2x8 GB 2600MHZ
-SSD m.2 samsung mzvlb256hbhq-000l2
+CPU - i5-9300H 4 cores 8 threads 2.4 ghz<br/>
+RAM - Kingston HyperX Impact 2x8 GB 2600MHZ<br/>
+SSD m.2 samsung mzvlb256hbhq-000l2<br/>
 
 ## Testavimo rezultatai
 
