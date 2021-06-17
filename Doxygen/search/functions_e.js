@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['writetofile_98',['writeToFile',['../_student_file_8cpp.html#a9e72e95e37ef086fe9f07dc0494be9fa',1,'writeToFile(vector&lt; Student &gt; &amp;group, bool isMedian):&#160;StudentFile.cpp'],['../_student_file_8cpp.html#a15b0e6946c51f9832636368d31eb98af',1,'writeToFile(vector&lt; Student &gt; &amp;groupGood, vector&lt; Student &gt; &amp;groupBad, bool isMedian):&#160;StudentFile.cpp'],['../_student_file_8h.html#a34ed1f68195f37bd5b4abd54be1731f9',1,'writeToFile(vector&lt; Student &gt; &amp;, bool):&#160;StudentFile.cpp'],['../_student_file_8h.html#a55b1b4ef22ab83b6baa4a263eb9da77f',1,'writeToFile(vector&lt; Student &gt; &amp;, vector&lt; Student &gt; &amp;, bool):&#160;StudentFile.cpp'],['../_test_8h.html#aa8fd322d409adffb3c9520f9d5bcf546',1,'writeToFile(T &amp;groupGood, T &amp;groupBad, int n, string dir):&#160;Test.h']]]
+];
