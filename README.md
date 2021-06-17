@@ -117,9 +117,13 @@ Galiausiai spaudžiame Generate ir truputį palaukiame kol visi reikiami failai 
 
 ## Versijos
 
-[v0.1](https://github.com/Redziis/OP/tree/v0.1).<br/>
-[v0.2](https://github.com/Redziis/OP/tree/v0.2).<br/>
-[v0.3](https://github.com/Redziis/OP/tree/v0.3).<br/>
-[v0.4](https://github.com/Redziis/OP/tree/v0.4).<br/>
-[v0.5](https://github.com/Redziis/OP/tree/v0.5).<br/>
-[v1.0](https://github.com/Redziis/OP/tree/v1.0).<br/>
+[v0.1](https://github.com/Redziis/OP2/tree/v0.1).<br/>
+[v0.2](https://github.com/Redziis/OP2/tree/v0.2).<br/>
+[v0.3](https://github.com/Redziis/OP2/tree/v0.3).<br/>
+[v0.4](https://github.com/Redziis/OP2/tree/v0.4).<br/>
+[v0.5](https://github.com/Redziis/OP2/tree/v0.5).<br/>
+[v1.0](https://github.com/Redziis/OP2/tree/v1.0).<br/>
+[v1.1](https://github.com/Redziis/OP2/tree/v1.1).<br/>
+[v1.2](https://github.com/Redziis/OP2/tree/v1.2).<br/>
+[v1.5](https://github.com/Redziis/OP2/tree/v1.5).<br/>
+[v2.0](https://github.com/Redziis/OP2/tree/v2.0).<br/>
